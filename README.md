@@ -3,7 +3,6 @@
 # 0xMagio
 ### Creator, Thinker, Blockchain Developer
 
-<hr/>
 
 <div class="bio">
     <p>Hi there! I'm a web and blockchain developer with a passion for computer science and cryptographic, decentralized applications. With over 4 years of experience in the Web3 space, I have a deep understanding of blockchain technology and infrastructure.</p>
